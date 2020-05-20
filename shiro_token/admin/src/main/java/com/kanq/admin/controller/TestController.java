@@ -113,12 +113,12 @@ public class TestController {
 
 
 
-    public static void main(String[] args) {
-        System.out.println(CommonStatusEnum.fromStatus(0).getDescription());
-
-        System.out.println(CommonStatusEnum.valueOf("NOMAL").getDescription());
-
-    }
+//    public static void main(String[] args) {
+//        System.out.println(CommonStatusEnum.fromStatus(0).getDescription());
+//
+//        System.out.println(CommonStatusEnum.valueOf("NOMAL").getDescription());
+//
+//    }
 
 
 
